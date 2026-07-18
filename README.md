@@ -1,6 +1,6 @@
 # bazzite-nix &nbsp; [![bluebuild build badge](https://github.com/transparentjpeg/bazzite-nix/actions/workflows/build.yml/badge.svg)](https://github.com/transparentjpeg/bazzite-nix/actions/workflows/build.yml)
 
-adding /nix to bazzite-nvidia-open
+adding /nix to bazzite-nvidia-open (JUST THE FOLDER, NOT A FUNCTIONING INSTALLATION OF THE NIX PACKAGE MANAGER)
 
 ## Installation
 
